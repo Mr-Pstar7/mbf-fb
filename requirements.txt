@@ -1,0 +1,9 @@
+bs4
+mechanize
+rich
+stdiomask
+httpx
+colorama
+requests
+toilet
+pycryptodome
