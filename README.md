@@ -24,7 +24,7 @@ This is a simple Python script for Multi bruteforce Facebook.
  pkg install git 
  rm -rf mbf-fb
  git clone https://github.com/Mr-Pstar7/mbf-fb
- cd fb-prem
+ cd mbf-fb
  pip install -r requirements.txt
  python fb-prem.py
 ```
